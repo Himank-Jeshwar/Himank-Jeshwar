@@ -1,5 +1,5 @@
 Hi , I'm Himank Jeshwar.
 I am interested in computer programming.
-I am currently learning Java and I am looking to collaborate on Android Development.
+I often upload programs on my repositories for the help of other programmers.
 
 CONTACT E-MAIL ADDRESS - jeshwarhimank@gmail.com
